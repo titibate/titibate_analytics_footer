@@ -1,6 +1,9 @@
 === Analytics in the footer - Titibate ===
 Contributors: titibate
 Tags: analytics, footer
+Stable tag: 0.3.1
+Version: 0.3.1
+Tested up to: 5.6.1
 License: GPL3
 License URI: https://www.gnu.org/licenses/gpl.html
 

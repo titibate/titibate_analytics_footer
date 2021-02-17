@@ -1,13 +1,13 @@
 <?php
 /**
  * @link              https://github.com/titibate/titibate_analytics_footer
- * @since             0.1.0
+ * @since             0.3.1
  * @package           titibate_analytics_footer
  *
  * @wordpress-plugin
  * Plugin Name: Analytics in the footer - Titibate
  * Description: Add analytics tracking code in the footer page
- * Version: 0.1
+ * Version: 0.3.1
  * Author: Titibate
  * Author URI: https://titibate.com
  * Text Domain: titibate_analytics_footer
